@@ -1,0 +1,14 @@
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\bin\Debug\net6.0\DelegateProjectTask.exe
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\bin\Debug\net6.0\DelegateProjectTask.deps.json
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\bin\Debug\net6.0\DelegateProjectTask.runtimeconfig.json
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\bin\Debug\net6.0\DelegateProjectTask.dll
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\bin\Debug\net6.0\DelegateProjectTask.pdb
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\DelegateProjectTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\DelegateProjectTask.AssemblyInfoInputs.cache
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\DelegateProjectTask.AssemblyInfo.cs
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\DelegateProjectTask.csproj.CoreCompileInputs.cache
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\DelegateProjectTask.dll
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\refint\DelegateProjectTask.dll
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\DelegateProjectTask.pdb
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\DelegateProjectTask.genruntimeconfig.cache
+C:\Users\Augmento\source\repos\DelegateProjectTask\DelegateProjectTask\obj\Debug\net6.0\ref\DelegateProjectTask.dll
